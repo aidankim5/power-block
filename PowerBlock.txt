@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Projects\PowerBlock\PowerBlock.PcbDoc
+Date         : 9/3/2026
+Time         : 4:45:20 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 35mmx25mm
+    Components on board, 19
+count : 2
