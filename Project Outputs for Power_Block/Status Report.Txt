@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power_Block.PrjPcb]
+   Generated File[PowerBlock-RoundHoles.TXT]
+   Generated File[PowerBlock-SlotHoles.TXT]
+   Generated File[PowerBlock.LDP]
+   Generated File[PowerBlock.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:24:40 PM On 9/5/2026

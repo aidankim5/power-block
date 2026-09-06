@@ -5,3 +5,5 @@ Project Logs*/
 *.DsnWrk
 *.bak
 *.$$$
+*.log
+Thumbs.db
