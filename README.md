@@ -6,6 +6,10 @@ Designed in Altium Designer 26. First board I have taken from schematic to Gerbe
 
 ![Top side, JLCPCB Gerber preview](docs/jlc_preview_top.png)
 
+![Schematic](docs/schematic.png)
+
+Full-resolution schematic and board print: [Power_Block.pdf](Power_Block.pdf).
+
 ## Status
 
 | Date | Milestone |
@@ -86,8 +90,9 @@ Power_Block.PrjPcb                 Altium project
 PowerBlock.SchDoc                  schematic
 PowerBlock.PcbDoc                  PCB layout
 PowerBlock.SchLib / .PcbLib        project libraries: own AP3441 symbol + footprint, USB4085 (SnapEDA), passives
+Power_Block.pdf                    schematic + board print (Smart PDF; Power_Block.OutJob regenerates it)
 Project Outputs for Power_Block/   Gerbers (.GTL .GBL .GTO .GTS .GBS .GTP .GM), NC drill (RoundHoles, SlotHoles), DRC report, JLCPCB upload zip
-docs/                              images
+docs/                              images (schematic, JLCPCB preview, bottom copper)
 ```
 
 ## Fabrication
